@@ -1,6 +1,9 @@
-# mixed_color_background
+# split_color_background
 
-A new Flutter application.
+This project was an attempt to mimic several beautiful designs 
+found on sites like Dribble and UpLabs where you will often see screens that
+have a "header" section that has one background color, and a "body" section
+that has a different background color. 
 
 ## Getting Started
 
